@@ -3,5 +3,6 @@
 
 `KMeans` and `Matplotlib` and `Tableau`
 ------------------------
+![image](https://github.com/xiaomayi-ant/RFM/blob/master/Sankey%20Diagram.png)
 
 
